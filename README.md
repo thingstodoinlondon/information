@@ -2,7 +2,7 @@
 
 ## Historic Landmarks & Iconic Sites
 
-###Buckingham Palace:
+### Buckingham Palace:
 Watch the Changing of the Guard and explore the area around the palace.
 
 ### Tower of London:

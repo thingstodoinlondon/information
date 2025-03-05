@@ -2,7 +2,7 @@
 
 ## Historic Landmarks & Iconic Sites
 
-### [Buckingham Palace](https://github.com/thingstodoinlondon/buckinghampalace):
+### [Buckingham Palace:](https://github.com/thingstodoinlondon/buckinghampalace)
 Watch the Changing of the Guard and explore the area around the palace.
 
 ### Tower of London:

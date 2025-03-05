@@ -2,12 +2,23 @@
 
 ## Historic Landmarks & Iconic Sites
 
-Buckingham Palace: Watch the Changing of the Guard and explore the area around the palace.
-Tower of London: Discover centuries of history and view the Crown Jewels.
-Westminster Abbey & Big Ben: Visit the gothic church where British monarchs are crowned and see the famous clock tower.
-St Paul’s Cathedral: Admire its striking dome and explore its crypt and galleries.
-The Shard: Enjoy panoramic views from one of London’s tallest skyscrapers.
-Museums & Galleries
+###Buckingham Palace:
+Watch the Changing of the Guard and explore the area around the palace.
+
+### Tower of London:
+Discover centuries of history and view the Crown Jewels.
+
+### Westminster Abbey & Big Ben:
+Visit the gothic church where British monarchs are crowned and see the famous clock tower.
+
+### St Paul’s Cathedral:
+Admire its striking dome and explore its crypt and galleries.
+
+### The Shard:
+Enjoy panoramic views from one of London’s tallest skyscrapers.
+
+## Museums & Galleries
+
 British Museum: Explore extensive collections from around the world (entry is free).
 Natural History Museum: Discover exhibits ranging from dinosaurs to gemstones.
 Victoria and Albert Museum: See decorative arts and design masterpieces.

@@ -5,7 +5,7 @@
 ### [Buckingham Palace:](https://github.com/thingstodoinlondon/buckinghampalace)
 Watch the Changing of the Guard and explore the area around the palace.
 
-### Tower of London:
+### [Tower Of London:](https://github.com/thingstodoinlondon/toweroflondon)
 Discover centuries of history and view the Crown Jewels.
 
 ### Westminster Abbey & Big Ben:

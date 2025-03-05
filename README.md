@@ -8,7 +8,7 @@ Watch the Changing of the Guard and explore the area around the palace.
 ### [Tower Of London:](https://github.com/thingstodoinlondon/toweroflondon)
 Discover centuries of history and view the Crown Jewels.
 
-### Westminster Abbey & Big Ben:
+### [Westminster Abbey & Big Ben:](https://github.com/thingstodoinlondon/westminsterabbeyandbigben)
 Visit the gothic church where British monarchs are crowned and see the famous clock tower.
 
 ### St Paul’s Cathedral:

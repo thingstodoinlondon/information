@@ -11,7 +11,7 @@ Discover centuries of history and view the Crown Jewels.
 ### [Westminster Abbey & Big Ben:](https://github.com/thingstodoinlondon/westminsterabbeyandbigben)
 Visit the gothic church where British monarchs are crowned and see the famous clock tower.
 
-### St Paul’s Cathedral:
+### [St Paul’s Cathedral:](https://github.com/thingstodoinlondon/stpaulscathedral)
 Admire its striking dome and explore its crypt and galleries.
 
 ### The Shard:

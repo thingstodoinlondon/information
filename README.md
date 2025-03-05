@@ -1,7 +1,8 @@
 # Information
-Here's a curated list of must-see attractions and popular activities in London
+## Here's a curated list of must-see attractions and popular activities in London
 
-Historic Landmarks & Iconic Sites
+### Historic Landmarks & Iconic Sites
+
 Buckingham Palace: Watch the Changing of the Guard and explore the area around the palace.
 Tower of London: Discover centuries of history and view the Crown Jewels.
 Westminster Abbey & Big Ben: Visit the gothic church where British monarchs are crowned and see the famous clock tower.

@@ -14,7 +14,7 @@ Visit the gothic church where British monarchs are crowned and see the famous cl
 ### [St Paul’s Cathedral:](https://github.com/thingstodoinlondon/stpaulscathedral)
 Admire its striking dome and explore its crypt and galleries.
 
-### The Shard:
+### [The Shard:](https://github.com/thingstodoinlondon/theshard)
 Enjoy panoramic views from one of London’s tallest skyscrapers.
 
 ## Museums & Galleries
